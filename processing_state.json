@@ -1,0 +1,9 @@
+{
+  "total_images": 735,
+  "processed_images_count": 735,
+  "current_batch_index": 8,
+  "batch_size": 100,
+  "running_summary": "{\n  \"imaging_modality\": \"CT Scan\",\n  \"affected_region\": \"Bilateral Lungs and Liver\",\n  \"abnormal_visual_patterns_summary\": \"Extensive bilateral pulmonary nodules and masses (millimeter to multi-centimeter-sized) with irregular/spiculated margins, heterogeneous density, ground-glass opacities, reticular changes, architectural distortion, scattered small nodules throughout parenchyma, larger irregular masses and cavitary lesions in lower lobes confirmed across sagittal CAP views and full axial lung MIP reconstructions (01-51); prior hypodense liver lesions; incidental bladder calculus.\",\n  \"suggests_cancer\": \"Yes\",\n  \"suspected_cancer_type\": \"Lung Cancer\",\n  \"cancer_stage_indicator\": \"Advanced Stage Indicators\",\n  \"confidence_level\": \"98%\",\n  \"reasoning\": \"Sagittal CAP (073-121) and additional axial lung MIPs (01-51) further confirm bilateral miliary nodules, larger cavitary/irregular masses with spiculated margins, necrosis, and parenchymal distortion across all lobes. Liver lesions suspicious for metastases. No new abnormalities identified.\",\n  \"recommendation\": \"Biopsy of dominant lung lesion; PET-CT for staging; urgent oncology consult; urology eval for bladder calculus.\"\n}",
+  "status": "completed",
+  "total_tokens_used": 31351
+}

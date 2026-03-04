@@ -1,0 +1,19 @@
+{
+  "name": "cancer_detection_scripts",
+  "version": "1.0.0",
+  "description": "Scripts for uploading images to Cloudinary and testing with Grok Vision",
+  "main": "upload_to_cloudinary.js",
+  "scripts": {
+    "upload": "node upload_to_cloudinary.js",
+    "test-grok": "node test_grok.js"
+  },
+  "dependencies": {
+    "cloudinary": "^2.0.1",
+    "dicom-parser": "^1.8.21",
+    "dotenv": "^16.4.5",
+    "glob": "^13.0.6",
+    "openai": "^4.28.0",
+    "sanitize-filename": "^1.6.3",
+    "sharp": "^0.34.5"
+  }
+}

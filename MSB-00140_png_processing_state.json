@@ -1,0 +1,9 @@
+{
+  "total_images": 739,
+  "processed_images_count": 739,
+  "current_batch_index": 8,
+  "batch_size": 100,
+  "running_summary": "{\n  \"imaging_modality\": \"CT Scan\",\n  \"affected_region\": \"Abdomen, Pelvis and Pelvic Bones\",\n  \"abnormal_visual_patterns_summary\": \"Orthopedic hardware in spine, pelvis and sacrum/ilium; persistent dilated small and large bowel loops with air-fluid levels suggesting ileus; multiple lytic lesions/low-density areas in pelvic bones (ilium/sacrum) near hardware; lungs clear; solid organs (liver, spleen, kidneys) homogeneous without masses; no enlarged lymph nodes, spiculations, necrosis, invasion, or soft tissue abnormalities.\",\n  \"suggests_cancer\": \"Yes\",\n  \"suspected_cancer_type\": \"Bone Cancer / Metastasis\",\n  \"cancer_stage_indicator\": \"Indeterminate\",\n  \"confidence_level\": \"89%\",\n  \"reasoning\": \"Extended sagittal CT slices (092-130 SAG) consistently show multiple lytic lesions/low-density areas in pelvic bones/sacrum near orthopedic hardware, reinforcing metastatic/bone cancer suspicion; persistent ileus with dilated bowel loops/air-fluid levels; no primary tumor, masses, lymphadenopathy, invasion, or new abnormalities in abdomen, lungs, or organs across all prior and new images.\",\n  \"recommendation\": \"Await bone biopsy pathology results; oncology and orthopedics consult; monitor bowel ileus with gastroenterology\"\n}",
+  "status": "completed",
+  "total_tokens_used": 240515
+}

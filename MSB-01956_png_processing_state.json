@@ -1,0 +1,9 @@
+{
+  "total_images": 128,
+  "processed_images_count": 128,
+  "current_batch_index": 2,
+  "batch_size": 100,
+  "running_summary": "{\n  \"imaging_modality\": \"CT Scan\",\n  \"affected_region\": \"Bilateral Lungs\",\n  \"abnormal_visual_patterns_summary\": \"Multiple bilateral pulmonary nodules of varying sizes (small to several cm), some cavitary with thick walls, irregular densities and heterogeneous lung parenchyma persisting through additional lower axial slices.\",\n  \"suggests_cancer\": \"Yes\",\n  \"suspected_cancer_type\": \"Lung Cancer\",\n  \"cancer_stage_indicator\": \"Advanced Stage Indicators\",\n  \"confidence_level\": \"92%\",\n  \"reasoning\": \"Continued axial CT slices (100-127) show diffuse bilateral nodules increasing caudally, with cavitation, thick walls, irregular borders, and heterogeneous parenchyma. No benign features; pattern consistent with multifocal lung cancer or metastases. Additional slices reinforce advanced disease without new primaries.\",\n  \"recommendation\": \"Biopsy recommended, consult oncologist\"\n}",
+  "status": "completed",
+  "total_tokens_used": 43979
+}

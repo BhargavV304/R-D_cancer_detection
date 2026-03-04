@@ -1,0 +1,9 @@
+{
+  "total_images": 964,
+  "processed_images_count": 964,
+  "current_batch_index": 10,
+  "batch_size": 100,
+  "running_summary": "{\n  \"imaging_modality\": \"CT Scan\",\n  \"affected_region\": \"Chest - Bilateral Lungs, Abdomen - Liver and Bilateral Kidneys, Pelvis\",\n  \"abnormal_visual_patterns_summary\": \"Multiple bilateral pulmonary nodules/masses (0.5-3cm), well-circumscribed, hyperdense on CT across sagittal views; solitary well-defined hypodense lesion (~2cm) in left hepatic lobe; multiple bilateral renal hypodense well-circumscribed lesions/cysts of varying sizes in delay phase axial views; normal gravid uterus, bowel gas patterns, spine, pelvis bones, bladder; no effusion, nodal enlargement, spiculation, invasion, or pelvic masses.\",\n  \"suggests_cancer\": \"Yes\",\n  \"suspected_cancer_type\": \"Lung Cancer\",\n  \"cancer_stage_indicator\": \"Advanced Stage Indicators\",\n  \"confidence_level\": \"95%\",\n  \"reasoning\": \"Persistent multiple bilateral pulmonary nodules suspicious for primaries; liver hypodensity and new bilateral renal hypodense lesions suggestive of metastases (stage IV) across sagittal and delay axial slices. No spiculation, invasion, effusion, or enlarged nodes. Well-defined margins noted throughout.\",\n  \"recommendation\": \"Biopsy recommended, consult oncologist\"\n}",
+  "status": "completed",
+  "total_tokens_used": 303752
+}
