@@ -1,0 +1,9 @@
+{
+  "total_images": 1638,
+  "processed_images_count": 1638,
+  "current_batch_index": 17,
+  "batch_size": 100,
+  "running_summary": "{\n  \"imaging_modality\": \"CT Scan\",\n  \"affected_region\": \"Abdomen and Pelvis - Peritoneum, Mesentery, Omentum, Retroperitoneum, Pelvic Mesentery (including lower pelvis surrounding rectum and bladder); Chest - Bilateral Lungs; Upper Pelvis/Bony Pelvis\",\n  \"abnormal_visual_patterns_summary\": \"Extensive irregular hypodense nodules and masses scattered throughout peritoneum, omentum, mesentery, retroperitoneum, pelvic mesentery (pre-contrast liver slices 32-44, 5mm_CAP slices 035-084+, COR_3mm_AVG slices 08-97 extensive bilateral lesions, innumerable small nodules/masses invading bowel loops, kidneys, rectum, bladder base); omental caking/thickening; bowel wall thickening/displacement; serosal implants/mesenteric nodules; bilateral pulmonary nodules/masses (5mm_LUNG slices 001-034+, COR_CHEST_MIPS slices 16-56+ innumerable projected irregular/heterogeneous/small hyperdense nodules throughout lung fields); innumerable small pelvic nodules (COR_3mm_AVG 60-97 persistent pelvic mesenteric nodules/clusters around rectum/bladder); symmetric kidneys, normal liver pre-contrast, normal bony pelvis/spine/psoas\",\n  \"suggests_cancer\": \"Yes\",\n  \"suspected_cancer_type\": \"Colorectal Cancer\",\n  \"cancer_stage_indicator\": \"Advanced Stage Indicators\",\n  \"confidence_level\": \"99%\",\n  \"reasoning\": \"COR_3mm_AVG slices 60-97 reconfirm extensive pelvic mesenteric nodules/masses with irregular hypodense lesions invading rectum/bladder base; pattern of peritoneal carcinomatosis and prior pulmonary metastases persists without new bone/liver involvement; highly consistent with advanced metastatic colorectal cancer.\",\n  \"recommendation\": \"Biopsy recommended; Consult oncologist; Consider PET-CT for staging\"\n}",
+  "status": "completed",
+  "total_tokens_used": 633595
+}
